@@ -1,0 +1,76 @@
+video 2 - vetor
+
+teoria
+
+aglomerado de dados memória ram
+
+prática
+
+ordenação
+
+
+video 3 - matriz
+
+teoria
+prática
+multiplicação
+ordenação (ex4 prova1)
+
+
+video 4 - ponteiros
+
+teoria
+
+hd, processador, armário
+
+prática
+
+manipulando exercícios anteriores com ponteiros
+
+
+video 5 - ponteiros 2 (alocação dinâmica)
+
+teoria
+malloc, calloc e realloc
+prática
+alocando vetores
+alocando matrizes
+
+
+video 6 - função
+
+teoria
+como escrever
+quando usar
+prática
+
+
+video 7 - recursão
+
+teoria
+quando usar
+quando não usar
+prática
+pilha invertida (recursão crescente)
+
+
+video 8 - strings
+
+teoria
+prática
+invertendo, ordenando e contando caracteres
+
+
+video 9 - struct
+
+teoria
+como escrever
+quando usar
+prática
+aninhamento
+union
+
+video 10 - arquivos
+
+abriu, leu, copiou, sobrescreveu, pesquisou
+EOF - uso e mau uso
