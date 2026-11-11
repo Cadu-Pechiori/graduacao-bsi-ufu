@@ -1,0 +1,24 @@
+# Saídas de compilação
+*.exe
+*.o
+*.out
+*.class
+bin/
+obj/
+target/
+build/
+
+# Arquivos gerados ao rodar os exercícios
+inteiros.bin
+destino.txt
+dados.txt
+info.txt
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+__MACOSX/
+*Zone.Identifier
+*.bak
+~$*
+.vscode/
