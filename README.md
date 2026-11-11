@@ -27,7 +27,7 @@ Carlos Eduardo da Silva Pechiori (Cadu Pechiori)
 | 2026-1 | Desenvolvimento Web I | Projeto em grupo de 6 pessoas (site de veículos); o repositório é de um colega | [web1-projeto-veiculos](https://github.com/mauricio-oliv/web1-projeto-veiculos) |
 | 2026-1 | Tópicos Especiais: Visualização de Dados | Dashboard de expectativa de vida | [dashboard-expectativa-de-vida](https://github.com/Cadu-Pechiori/dashboard-expectativa-de-vida) |
 | 2026-2 | Programação Orientada a Objetos 2 | Seminário sobre Java RMI (43 slides) | [pasta](2026-2-poo2-seminario-java-rmi/) |
-| 2026-2 | Sistemas de Bancos de Dados | Benchmark de algoritmos de junção em PostgreSQL | [sql-join-benchmark](https://github.com/Cadu-Pechiori/sql-join-benchmark) |
+| 2026-2 | Sistemas de Bancos de Dados | Comparação de desempenho entre INTERSECT, DISTINCT e JOIN no PostgreSQL (Java, JDBC e Python) | [sql-join-benchmark](https://github.com/Cadu-Pechiori/sql-join-benchmark) |
 
 ## Extracurriculares
 
