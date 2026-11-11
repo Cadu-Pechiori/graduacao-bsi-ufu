@@ -35,7 +35,6 @@ Carlos Eduardo da Silva Pechiori (Cadu Pechiori)
 - **DACOMP** (Diretório Acadêmico da Computação): produzi as videoaulas do curso de Lógica.
 - **Atlética AAACOMP**: design e edição de vídeo.
 - **Programa de tutoria do curso**: monitor de Algoritmos 1, Arquitetura e Organização de Computadores e Lógica.
-- **Oficina do Amanhã (UDITECH)**: instrutor de Power BI e Excel, de 2024 a 2025.
 
 ## Como navegar
 
