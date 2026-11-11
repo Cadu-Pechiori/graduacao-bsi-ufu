@@ -11,7 +11,7 @@ Os PDFs são digitalizações das folhas entregues.
 
 ## Depois da disciplina
 
-Fui monitor de Lógica no programa de tutoria do curso e, pelo DACOMP (Diretório Acadêmico da Computação), produzi as videoaulas do curso de Lógica do diretório.
+Fui monitor de Lógica no programa de tutoria do PET-SI e, por iniciativa própria, gravei videoaulas de Lógica para colegas. A mais vista é o [Aulão de Lógica (Revisão P1)](https://www.youtube.com/watch?v=rGGfuM94gao).
 
 ## Contexto acadêmico
 

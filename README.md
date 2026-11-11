@@ -26,10 +26,10 @@ Carlos Eduardo da Silva Pechiori (Cadu Pechiori)
 
 ## Extracurriculares
 
-- **PET-SI** (Programa de Educação Tutorial de Sistemas de Informação): designer do grupo. Ministrei o minicurso de 10 horas de UI/UX Design "Alavancando suas Interfaces" na Techweek da FACOM.
-- **DACOMP** (Diretório Acadêmico da Computação): produzi as videoaulas do curso de Lógica.
+- **PET-SI** (Programa de Educação Tutorial de Sistemas de Informação): designer do grupo e tutor no programa de tutoria, com monitoria de Algoritmos 1, Arquitetura e Organização de Computadores e Lógica.
+- **FACOM Techweek** (semana de tecnologia da Faculdade de Computação): palestras de UI/UX Design e o minicurso de 10 horas "Alavancando suas Interfaces".
+- **Videoaulas para colegas**, gravadas por iniciativa própria: Algoritmos 1 e 2, Arquitetura e Organização de Computadores, Lógica e Cálculo 1, 2 e 3. A mais vista, o [Aulão de Lógica (Revisão P1)](https://www.youtube.com/watch?v=rGGfuM94gao), passa de 8 mil visualizações.
 - **Atlética AAACOMP**: design e edição de vídeo.
-- **Programa de tutoria do curso**: monitor de Algoritmos 1, Arquitetura e Organização de Computadores e Lógica.
 
 ## Como navegar
 

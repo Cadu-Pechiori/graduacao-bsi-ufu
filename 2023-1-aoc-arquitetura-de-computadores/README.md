@@ -15,4 +15,4 @@ Seminário sobre memória secundária (dispositivos de armazenamento e RAID).
 - Disciplina: Arquitetura e Organização de Computadores (GSI013), Bacharelado em Sistemas de Informação, FACOM/UFU
 - Semestre: 2023-1
 - Seminário em grupo (Grupo 1) com Alicia da Silva Feliciano, Douglas Stuhler Pinheiro, Gustavo Wendel Lopes da Silva, Luisa Mariano Castilho, Nathan Silva Neves e Vinícius Lucas Guimarães, além de Carlos Eduardo da Silva Pechiori (Cadu)
-- Depois da disciplina, fui monitor de AOC no programa de tutoria do curso.
+- Depois da disciplina, fui monitor de AOC no programa de tutoria do PET-SI e gravei videoaulas de AOC para colegas.
