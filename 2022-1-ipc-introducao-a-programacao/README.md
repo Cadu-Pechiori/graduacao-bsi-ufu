@@ -13,7 +13,7 @@ A disciplina cobre o básico de C: entrada e saída, condicionais, laços, vetor
   - `listas/`: as listas de exercícios de cada vídeo, montadas por mim (Video 2 a Video 9);
   - `resolucoes/`: as resoluções comentadas em PDF;
   - `codigo/`: as resoluções em C (cada arquivo tem um exercício ativo e os demais comentados);
-  - `aula-29-revisao/`: aula de revisão gravada em ago/2023 (seleção de exercícios da lista da disciplina, diagramada por mim, e o código da aula);
+  - `aula-29-revisao/`: código da aula de revisão que gravei em ago/2023;
   - `alg2-ponteiros-e-funcoes/`: aula sobre ponteiros e funções para Algoritmos 2, de dez/2025 (slides e código).
 
 Os vídeos em si não estão no repositório (arquivos grandes); ficam disponíveis sob pedido.

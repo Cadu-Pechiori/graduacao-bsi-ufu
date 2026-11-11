@@ -14,7 +14,7 @@ Carlos Eduardo da Silva Pechiori (Cadu Pechiori)
 | 2022-1 | Empreendedorismo em Informática (GSI001) | iDoce: plano de negócios e telas de um app de delivery de doces feitos por estudantes | [pasta](2022-1-empreendedorismo-idoce/) |
 | 2022-2 e seguintes | Estruturas de Dados 1 (GSI006) e 2 (FACOM32402) | Pilha, fila, deque, TAD vetor e listas encadeadas em C | [estruturas-de-dados-em-c](https://github.com/Cadu-Pechiori/estruturas-de-dados-em-c) |
 | 2022-2 | Programação Lógica (GSI010) | Prolog (corte, "tabelas" com `findall`/`forall`), mapa conceitual e vídeos do grupo | [pasta](2022-2-programacao-logica-prolog/) |
-| 2023-1 | Arquitetura e Organização de Computadores (GSI013) | Seminário sobre memória secundária e exercícios em assembly MIPS | [pasta](2023-1-aoc-arquitetura-de-computadores/) |
+| 2023-1 | Arquitetura e Organização de Computadores (GSI013) | Seminário sobre memória secundária (discos e RAID); design dos slides | [pasta](2023-1-aoc-arquitetura-de-computadores/) |
 | 2023-1 | Programação Orientada a Objetos 1 (GSI015) | Sistema desktop de clínica médica em Java Swing, com persistência por serialização | [clinica-medica-poo](https://github.com/Cadu-Pechiori/clinica-medica-poo) |
 | 2023-2 | Modelagem de Software (GSI025) | TutorMatch: requisitos e diagramas UML de um app de monitorias | [pasta](2023-2-modelagem-de-software-tutormatch/) |
 | 2023-2 | Sistemas Operacionais (GSI018) | Verificadores de consistência de sistema de arquivos em C | [pasta](2023-2-so-sistemas-operacionais/) |
@@ -41,6 +41,6 @@ Carlos Eduardo da Silva Pechiori (Cadu Pechiori)
 
 - As pastas seguem o formato `semestre-disciplina` (por exemplo, `2023-2-modelagem-de-software-tutormatch/`) e estão em ordem cronológica.
 - Cada pasta tem um `README.md` com resumo, tecnologias, grupo e como executar, quando há código. Imagens de prévia ficam em `docs/`.
-- O código em C compila com `gcc -std=c17`; Haskell, Prolog, MIPS e SQL têm instruções no README de cada pasta.
+- O código em C compila com `gcc -std=c17`; Haskell, Prolog e SQL têm instruções no README de cada pasta.
 - O histórico do Git separa o original do que mudou depois: há um commit por semestre com os arquivos originais, datado do fim daquele semestre, e depois commits de 2026 com correções de compilação, conversões (`.docx` para Markdown, Latin-1 para UTF-8), remoção de dados pessoais e os READMEs.
 - Não estão aqui: materiais de professores (slides, listas e provas), notas, vídeos (disponíveis sob pedido), arquivos de design (`.psd`/`.ai`) e trabalhos de colegas que não faziam parte da entrega do grupo. Os números de matrícula foram removidos dos documentos.
