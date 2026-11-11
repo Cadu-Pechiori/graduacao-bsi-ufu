@@ -10,12 +10,12 @@ int main()
     scanf("%f", &altura);
     printf("Essa pessoa é (h)omem ou (m)ulher?\n");
     s=getchar();
-    if (s == h"){
+    if (s == 'h'){
         homem = 72.7*altura;
-        printf("%f", "O cálculo é : ", homem,"\n");
+        printf("O cálculo é: %f\n", homem);
     }   else {
             mulher = 62.1*altura;
-            printf("%f", "O cálculo é : ", mulher,"\n");
+            printf("O cálculo é: %f\n", mulher);
     }
     return 0;
 }

@@ -10,31 +10,36 @@ int decrescente(int x){
         return decrescente(x-1);}
 }
 
-void busca(int vet, int chave, int tam){
+void crescente(int y){
+    if (y<0){
+        return;
+    }
+    crescente(y-1);
+    printf("%d ", y);
+}
+
+int busca(int vet[], int chave, int tam){
     for (int i=0;i<tam;i++){
         if (vet[i]==chave){
             return i;
         }
     }
-
-    if (y<0){
-        return 0;
-    }else {
-        crescente(y-1);
-        printf("%d ", y);
-    }
-    return;
+    return -1;
 }
 
 int main()
 {
-    int *n, m, teste, vet[n];
-    printf("Digite o valor de n");
+    int n, teste;
+    int vet[5] = {3, 8, 1, 9, 4};
+
+    printf("Digite o valor de n: ");
     scanf("%d", &n);
 
     printf("Descrescente: \n");
     teste = decrescente(n);
     printf("\nCrescente: \n");
     crescente(n);
-    return 0;
+
+    printf("\nPosicao de %d no vetor {3, 8, 1, 9, 4}: %d\n", n, busca(vet, n, 5));
+    return teste;
 }

@@ -10,7 +10,7 @@ int main()
 
     for (int i = 0 ; i < 5 ; i++){
         for (int j = i+1 ; j < 5 ; j++){
-            if(strcmp(alunos[i],alunos[j]>0)){
+            if(strcmp(alunos[i],alunos[j])>0){
                 strcpy(auxiliar,alunos[j]);
                 strcpy(alunos[j],alunos[i]);
                 strcpy(alunos[i],auxiliar);

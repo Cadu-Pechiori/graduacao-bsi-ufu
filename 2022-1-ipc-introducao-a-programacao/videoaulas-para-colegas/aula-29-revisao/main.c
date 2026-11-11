@@ -12,7 +12,7 @@ int main (){
 
     for ( i=0 ; i<10 ; i++ ){
         resultado = opcao*(i+1);
-        printf("\n%dx%d = %d",opcao,i+1,resultado)
+        printf("\n%dx%d = %d",opcao,i+1,resultado);
     }
 
 

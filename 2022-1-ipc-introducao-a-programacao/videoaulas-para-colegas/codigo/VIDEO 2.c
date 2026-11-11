@@ -64,7 +64,7 @@ int main() {
 }
 */
 
-/*EXERCÍCIO 11
+//EXERCÍCIO 11
 int main() {
     int i, j, v[20], aux;
 
@@ -91,4 +91,3 @@ int main() {
 
 return 0;
 }
-*/

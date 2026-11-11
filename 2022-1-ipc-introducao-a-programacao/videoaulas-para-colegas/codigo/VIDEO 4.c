@@ -30,7 +30,7 @@ int main () {
 }
 */
 
-/*EXERCÍCIO 2
+//EXERCÍCIO 2
 int main() {
 
     int v[10], i;
@@ -45,7 +45,7 @@ int main() {
     }
 
 }
-*/
+
 
 /* EXERCÍCIO 3
 int main() {
