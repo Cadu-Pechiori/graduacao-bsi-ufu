@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*EXERCÕCIO 1
+/*EXERC√çCIO 1
 int main() {
 
     int M[3][3], i, j;
@@ -25,7 +25,7 @@ int main() {
 }
 */
 
-/*EXERCÕCIO 2
+/*EXERC√çCIO 2
 int main() {
 
     int v1[4], v2[4], v3[4], M[3][4], i, j;
@@ -68,7 +68,7 @@ int main() {
 }
 */
 
-/*EXERCÕCIO 3
+/*EXERC√çCIO 3
 int main () {
 
     int N, maior=-9999, i, j;
@@ -101,7 +101,7 @@ int main () {
 }
 */
 
-/*EXERCÕCIO 4
+/*EXERC√çCIO 4
 int main() {
 
     int linhas, colunas, i, j;
@@ -146,7 +146,7 @@ int main() {
 }
 */
 
-/*EXERCÕCIO 5
+/*EXERC√çCIO 5
 int main() {
 
     int n, m, i, j;
@@ -188,7 +188,7 @@ int main() {
 }
 */
 
-/* EXERCÕCIO 6
+/* EXERC√çCIO 6
 int main() {
 
     int M[4][4], i, j, soma=0;
@@ -283,7 +283,7 @@ return 0;
 }
 */
 
-/*EXERCÕCIO 8
+/*EXERC√çCIO 8
 int main(){
 
     int matriz[4][4] = { {13, 7, 1, 5},{2, 8, 6, 3},{21, 17, 14, 16},{4,1,3,2} };

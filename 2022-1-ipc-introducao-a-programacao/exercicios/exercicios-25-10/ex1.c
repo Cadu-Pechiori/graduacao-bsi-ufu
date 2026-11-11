@@ -8,14 +8,14 @@ int main()
     char s;
     printf("Digite a altura da pessoa!\n");
     scanf("%f", &altura);
-    printf("Essa pessoa È (h)omem ou (m)ulher?\n");
+    printf("Essa pessoa √© (h)omem ou (m)ulher?\n");
     s=getchar();
     if (s == h"){
         homem = 72.7*altura;
-        printf("%f", "O c·lculo È : ", homem,"\n");
+        printf("%f", "O c√°lculo √© : ", homem,"\n");
     }   else {
             mulher = 62.1*altura;
-            printf("%f", "O c·lculo È : ", mulher,"\n");
+            printf("%f", "O c√°lculo √© : ", mulher,"\n");
     }
     return 0;
 }

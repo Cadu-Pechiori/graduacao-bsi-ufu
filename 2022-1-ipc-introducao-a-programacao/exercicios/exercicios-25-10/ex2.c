@@ -14,16 +14,16 @@ int main()
     if (x==y)
         printf("Deu empate!");
          else if (x=='r' && y=='p')
-           printf("O Jogador 2 venceu e o Jogador 1 ter· que pagar a coca!");
+           printf("O Jogador 2 venceu e o Jogador 1 ter√° que pagar a coca!");
             else if (x=='r' && y=='t')
-             printf("O Jogador 1 venceu e o Jogador 2 ter· que pagar a coca!");
+             printf("O Jogador 1 venceu e o Jogador 2 ter√° que pagar a coca!");
               else if (x=='p' && y=='t')
-               printf("O Jogador 2 venceu e o Jogador 1 ter· que pagar a coca!");
+               printf("O Jogador 2 venceu e o Jogador 1 ter√° que pagar a coca!");
                 else if (x=='p' && y=='r')
-                 printf("O Jogador 1 venceu e o Jogador 2 ter· que pagar a coca!");
+                 printf("O Jogador 1 venceu e o Jogador 2 ter√° que pagar a coca!");
                   else if (x=='t' && y=='r')
-                   printf("O Jogador 2 venceu e o Jogador 1 ter· que pagar a coca!");
+                   printf("O Jogador 2 venceu e o Jogador 1 ter√° que pagar a coca!");
                     else
-                     printf("O Jogador 1 venceu e o Jogador 2 ter· que pagar a coca!");
+                     printf("O Jogador 1 venceu e o Jogador 2 ter√° que pagar a coca!");
     return 0;
 }

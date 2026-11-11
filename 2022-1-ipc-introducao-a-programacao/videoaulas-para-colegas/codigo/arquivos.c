@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*//EXERCÕCIO1
+/*//EXERC√çCIO1
 int main()
 {
     char arquivo1[100], arquivo2[100];
@@ -60,7 +60,7 @@ int main()
     return 0;
 }
 */
-/*//EXERCÕCIO2
+/*//EXERC√çCIO2
 int main() {
 
     FILE *arquivo = fopen("inteiros.bin", "wb");
@@ -107,7 +107,7 @@ int main() {
 }
 */
 
-/*//EXERCÕCIO 3
+/*//EXERC√çCIO 3
 int main() {
     char arquivo[30], prod[30];
     float quantidade, preco, total = 0;
@@ -135,7 +135,7 @@ int main() {
 */
 
 
-//EXERCÕCIO4
+//EXERC√çCIO4
 int main() {
     char nome[100];
 

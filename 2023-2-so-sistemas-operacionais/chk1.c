@@ -9,13 +9,13 @@
 #define BLOCK_SIZE 512
 
 int main(int argc, char *argv[]) {
-    // Verifica se o número de argumentos da linha de comando é correto
+    // Verifica se o nÃºmero de argumentos da linha de comando Ã© correto
     if (argc != 2) {
         printf("Usage: %s <file_system_device>\n", argv[0]);
         exit(EXIT_FAILURE);
     }
 
-    // Obtém o caminho do dispositivo do sistema de arquivos a partir dos argumentos
+    // ObtÃ©m o caminho do dispositivo do sistema de arquivos a partir dos argumentos
     const char *device_path = argv[1];
 
     // Abre o dispositivo do sistema de arquivos em modo somente leitura
@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
         exit(EXIT_FAILURE);
     }
 
-    // Verificação básica para ler o primeiro bloco do sistema de arquivos
+    // VerificaÃ§Ã£o bÃ¡sica para ler o primeiro bloco do sistema de arquivos
     char buffer[BLOCK_SIZE];
     ssize_t bytes_read = read(device_fd, buffer, BLOCK_SIZE);
     if (bytes_read == -1) {

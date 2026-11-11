@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-/* EXERCÕCIO 1
+/* EXERC√çCIO 1
 int main () {
 
     int *px, *py, x, y;
@@ -30,7 +30,7 @@ int main () {
 }
 */
 
-/*EXERCÕCIO 2
+/*EXERC√çCIO 2
 int main() {
 
     int v[10], i;
@@ -47,7 +47,7 @@ int main() {
 }
 */
 
-/* EXERCÕCIO 3
+/* EXERC√çCIO 3
 int main() {
 
     float M[3][3];
@@ -70,7 +70,7 @@ int main() {
 }
 */
 
-/* EXERCÕCIO 4
+/* EXERC√çCIO 4
 int main() {
 
     int v[5], i;

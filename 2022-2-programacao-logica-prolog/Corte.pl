@@ -3,9 +3,9 @@ GRUPO 7 Integrantes:
 Anna Clara Rodrigues Peres
 Carlos Eduardo da Silva Pechiori
 Douglas Stuhler Pinheiro
-Isabella Paula Simão
+Isabella Paula SimÃ£o
 Paula Prado Carvalho
-Vinícius Lucas Guimarães
+VinÃ­cius Lucas GuimarÃ£es
 */
 
 /*
@@ -41,15 +41,15 @@ mae(barbara,denis).
 mae(esperanca,fred).
 %acima declaramos os fatos "mae"
 
-homem(X) :- masculino(X),!. %procura um homem e logo após, faz o corte.
+homem(X) :- masculino(X),!. %procura um homem e logo apÃ³s, faz o corte.
 
-homens(X,Y):-masculino(X),!,pai(Y,_),X\=Y. %procura um homem, faz o corte e logo após procura um pai que seja diferente da solução apresentada anteriormente, como A e D possuem a característica "pai" em comum, a resposta serão os dois homens.
+homens(X,Y):-masculino(X),!,pai(Y,_),X\=Y. %procura um homem, faz o corte e logo apÃ³s procura um pai que seja diferente da soluÃ§Ã£o apresentada anteriormente, como A e D possuem a caracterÃ­stica "pai" em comum, a resposta serÃ£o os dois homens.
 
-mulher(X) :- feminino(X),!. %procura uma mulher e logo após, faz o corte.
+mulher(X) :- feminino(X),!. %procura uma mulher e logo apÃ³s, faz o corte.
 
-pai(X) :- pai(X,_),!. %procura um pai e logo após, faz o corte.
+pai(X) :- pai(X,_),!. %procura um pai e logo apÃ³s, faz o corte.
 
-mae(X) :- mae(X,_),!. %procura uma mulher e logo após, faz o corte.
+mae(X) :- mae(X,_),!. %procura uma mulher e logo apÃ³s, faz o corte.
 
 
 

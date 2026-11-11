@@ -2,22 +2,22 @@
 
 #define BLOCK_SIZE 512
 
-// Função para verificar a consistência de um arquivo
+// FunÃ§Ã£o para verificar a consistÃªncia de um arquivo
 int check_file_consistency(FILE* file) {
-    // Verifica se o arquivo é válido
+    // Verifica se o arquivo Ã© vÃ¡lido
     if (file == NULL) {
-        printf("Erro: arquivo inválido!\n");
+        printf("Erro: arquivo invÃ¡lido!\n");
         return 0;
     }
 
-    // Verifica a consistência do arquivo
-    fseek(file, 0, SEEK_SET); // Move o ponteiro do arquivo para o início
+    // Verifica a consistÃªncia do arquivo
+    fseek(file, 0, SEEK_SET); // Move o ponteiro do arquivo para o inÃ­cio
 
-    // Verifica o marcador de início
+    // Verifica o marcador de inÃ­cio
     char start_marker[BLOCK_SIZE];
     fread(start_marker, sizeof(char), BLOCK_SIZE, file);
     if (start_marker[0] != '$' || start_marker[BLOCK_SIZE - 1] != '$') {
-        printf("Erro: marcador de início inválido!\n");
+        printf("Erro: marcador de inÃ­cio invÃ¡lido!\n");
         return 0;
     }
 
@@ -26,11 +26,11 @@ int check_file_consistency(FILE* file) {
     char end_marker[BLOCK_SIZE];
     fread(end_marker, sizeof(char), BLOCK_SIZE, file);
     if (end_marker[0] != '$' || end_marker[BLOCK_SIZE - 1] != '$') {
-        printf("Erro: marcador de fim inválido!\n");
+        printf("Erro: marcador de fim invÃ¡lido!\n");
         return 0;
     }
 
-    printf("Verificação de consistência bem-sucedida!\n");
+    printf("VerificaÃ§Ã£o de consistÃªncia bem-sucedida!\n");
     return 1;
 }
 
@@ -38,7 +38,7 @@ int main() {
     // Abre o arquivo para leitura
     FILE* file = fopen("arquivo.txt", "rb"); // Supondo que "arquivo.txt" seja o nome do arquivo
 
-    // Verifica a consistência do arquivo
+    // Verifica a consistÃªncia do arquivo
     check_file_consistency(file);
 
     // Fecha o arquivo

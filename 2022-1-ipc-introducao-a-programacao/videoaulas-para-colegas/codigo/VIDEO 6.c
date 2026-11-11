@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-/*//EXERCÍCIO NÚMERO 1
+/*//EXERCÃCIO NÃšMERO 1
 int main (){
     char frase[200];
     int i;
@@ -18,7 +18,7 @@ int main (){
 }
 */
 
-/*//EXERCÍCIO NÚMERO 2
+/*//EXERCÃCIO NÃšMERO 2
 int main (){
     char frase[200], temp;
     int i, j, l;
@@ -38,14 +38,14 @@ int main (){
 */
 
 
-//EXERCÍCIO NÚMERO 3
+//EXERCÃCIO NÃšMERO 3
 int main (){
     char frase2[200], frase[200], temp;
     int i, j, l, k;
     printf("Escreva uma frase\n");
     gets(frase);
 
-    //FAZER DEPOIS retira os espaçoçs da frase
+    //FAZER DEPOIS retira os espaÃ§oÃ§s da frase
     for ( i = 0 ; frase[i] != '\0' ;i++){
         if (frase[i] == ' '){
             for ( j = i ; frase[j] != '\0' ;j++){
@@ -74,15 +74,15 @@ int main (){
 
 
 
-/*//EXERCÍCIO NÚMERO 4
+/*//EXERCÃCIO NÃšMERO 4
 int main (){
     char M[20] = "Stephane";
     char N[20] = "Julia";
     char R[20] = "Humberto";
 
         //compara as frases
-        //explicar que é o primeiro
-        //menos o segundo como se fossem números
+        //explicar que Ã© o primeiro
+        //menos o segundo como se fossem nÃºmeros
         //primeiro if verifica quem eh o primeiro
         //segundo if verifica quem eh o segundo
     if (strcmp(M,N) <= 0 && strcmp(M,R) <= 0){
@@ -125,7 +125,7 @@ int main (){
 }
 */
 
-/*//EXERCÍCIO NÚMERO 5
+/*//EXERCÃCIO NÃšMERO 5
 int main() {
     int i, j, n;
     char M[20][30];
@@ -148,7 +148,7 @@ int main() {
 }
 */
 
-/*//EXERCÍCIO NÚMERO 6
+/*//EXERCÃCIO NÃšMERO 6
 int main (){
     char frase[200];
     int n, i;
@@ -167,7 +167,7 @@ int main (){
     return 0;
 }
 */
-/*//EXERCÍCIO 7
+/*//EXERCÃCIO 7
 int main() {
 
     char temp[12];

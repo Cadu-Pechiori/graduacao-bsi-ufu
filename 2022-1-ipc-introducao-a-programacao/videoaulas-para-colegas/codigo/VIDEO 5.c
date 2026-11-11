@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* EXERCÕCIO 1
+/* EXERC√çCIO 1
 int main(){
     int N, i;
     float soma=0, quantidade;
@@ -31,7 +31,7 @@ int main(){
 }
 */
 
-/* EXERCÕCIO 2
+/* EXERC√çCIO 2
 int main() {
     int n, cont=0, min, max, i, j=0;
 
@@ -70,7 +70,7 @@ int main() {
     }
 }
 */
-/* EXERCÕCIO 3
+/* EXERC√çCIO 3
 int main(){
     int n1, n2, n3, i;
 

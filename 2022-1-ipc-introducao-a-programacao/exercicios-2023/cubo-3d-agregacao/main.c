@@ -4,7 +4,7 @@
 int main(){
     int N, X, Y, Z, i, j, k, opcao;
     float agrega=0;
-    //Definindo a dimens„o do cubo
+    //Definindo a dimens√£o do cubo
     printf("Defina o tamanho da aresta do cubo");
     scanf("%d", &N);
 
@@ -34,15 +34,15 @@ int main(){
     }
     printf("\n\n");
 
-    // Escolhendo a agregaÁ„o
-    printf("Digite 1 para fazer a agregaÁ„o de valores XY\n");
-    printf("Digite 2 para fazer a agregaÁ„o de valores XZ\n");
-    printf("Digite 3 para fazer a agregaÁ„o de valores YZ\n");
+    // Escolhendo a agrega√ß√£o
+    printf("Digite 1 para fazer a agrega√ß√£o de valores XY\n");
+    printf("Digite 2 para fazer a agrega√ß√£o de valores XZ\n");
+    printf("Digite 3 para fazer a agrega√ß√£o de valores YZ\n");
     scanf("%d", &opcao);
 
-    // Fazendo a agregaÁ„o
+    // Fazendo a agrega√ß√£o
     switch(opcao){
-        // AgregaÁ„o XY
+        // Agrega√ß√£o XY
         case 1:
             printf("Escolha o valor de X\n");
             scanf("%d", &X);
@@ -52,7 +52,7 @@ int main(){
                 agrega = agrega + Cubo[X][Y][i];
             }
             break;
-        // AgregaÁ„o XZ
+        // Agrega√ß√£o XZ
         case 2:
             printf("Escolha o valor de X\n");
             scanf("%d", &X);
@@ -62,7 +62,7 @@ int main(){
                 agrega = agrega + Cubo[X][i][Z];
             }
             break;
-        // AgregaÁ„o YZ
+        // Agrega√ß√£o YZ
         case 3:
             printf("Escolha o valor de Y\n");
             scanf("%d", &Y);

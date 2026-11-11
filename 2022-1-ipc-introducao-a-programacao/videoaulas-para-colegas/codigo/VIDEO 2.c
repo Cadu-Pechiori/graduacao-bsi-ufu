@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*EXERCÕCIO 1
+/*EXERC√çCIO 1
 int main() {
 
     int vetor[9], i;
@@ -21,7 +21,7 @@ int main() {
 }
 */
 
-/*EXERCÕCIO 2
+/*EXERC√çCIO 2
 int main() {
     int vetor[9], i;
 
@@ -41,7 +41,7 @@ int main() {
 }
 */
 
-/*EXERCÕCIO 8
+/*EXERC√çCIO 8
 int main() {
 
     int n, i;
@@ -64,7 +64,7 @@ int main() {
 }
 */
 
-/*EXERCÕCIO 11
+/*EXERC√çCIO 11
 int main() {
     int i, j, v[20], aux;
 
